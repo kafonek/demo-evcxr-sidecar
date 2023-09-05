@@ -1,0 +1,1 @@
+{"transport": "tcp", "signature_scheme": "hmac-sha256", "key": "d3bafc903c6e4efc961f0223cd1d9cc1", "session": null, "shell_port": 50001, "stdin_port": 50002, "iopub_port": 50003, "hb_port": 50004, "control_port": 50005, "ip": "0.0.0.0", "kernel_name": "rust-1.70"}
